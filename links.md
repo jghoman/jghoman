@@ -6,3 +6,6 @@
 
 ## Random programming stuff
 - [Learn Assembly Language](https://asmtutor.com/) - Really nice, bite sized sections. Want to steal format.
+
+## Annoyances
+- [Flatpack has its own view of the filesystem](https://stackoverflow.com/questions/54499133/cant-select-home-directory-for-jdk-because-intellij-cant-see-it) - Applicable to IntelliJ installed via Software Update. Probably don't want to do that.
