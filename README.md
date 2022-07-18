@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jakob. I'm a dad, husband, software engineer, [cinephile](https://letterboxd.com/blueboxtraveler/), medieval history nerd, and probably a bit annoying at times.  I use this space as basically a scratch pad of things to remember.
+I'm Jakob. I'm a dad, husband, software engineer, [cinephile](https://letterboxd.com/blueboxtraveler/), and medieval history nerd.  I use this space as basically a scratch pad of things to remember.
 
 ### Professionally
 In fancy terms, I'm a distributed systems engineer. But really, I just love tinkering with code and helping others tinker too.  I've spent most of my career working in open source infrastructure, and I expect to continue doing so.  For the bit where coders list all the places they've been , like Bob Smith of the House of Facebook, mine is: ex-[Lyft](https://www.lyft.com/)-[OfferUp](https://offerup.com/)-[Microsoft](https://www.microsoft.com/)-[LinkedIn](https://www.linkedin.com)-[Yahoo!](https://www.yahoo.com).
